@@ -21,7 +21,7 @@
 title: Burnt'n'broken - psuję rzeczy
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Osobisty blog na którym dokumentuje swoje projekty DIY z dziedzin takich
+  Osobisty blog w którym dokumentuje swoje projekty DIY z dziedzin takich
   jak elektronika, automatyka, stolarstwo i inne.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://burnt-n-broken.github.io" # the base hostname & protocol for your site, e.g. http://example.com
